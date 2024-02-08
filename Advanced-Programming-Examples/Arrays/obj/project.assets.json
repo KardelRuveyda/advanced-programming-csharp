@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruveyda.cetin\\Desktop\\Calismalar\\advanced-programming\\examples\\Advanced-Programming-Examples\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\ruveyda.cetin\\Desktop\\Calismalar\\advanced-programming\\Advanced-Programming-Examples\\Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "C:\\Users\\ruveyda.cetin\\Desktop\\Calismalar\\advanced-programming\\examples\\Advanced-Programming-Examples\\Arrays\\Arrays.csproj",
+      "projectPath": "C:\\Users\\ruveyda.cetin\\Desktop\\Calismalar\\advanced-programming\\Advanced-Programming-Examples\\Arrays\\Arrays.csproj",
       "packagesPath": "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruveyda.cetin\\Desktop\\Calismalar\\advanced-programming\\examples\\Advanced-Programming-Examples\\Arrays\\obj\\",
+      "outputPath": "C:\\Users\\ruveyda.cetin\\Desktop\\Calismalar\\advanced-programming\\Advanced-Programming-Examples\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
