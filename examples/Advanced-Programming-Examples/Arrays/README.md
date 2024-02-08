@@ -1,4 +1,4 @@
-# Advanced C# Programming Notes
+# Advanced C# Programming Notes (ARRAY)
 
 This README file is created to explain and provide examples of advanced programming concepts in the C# programming language.
 
