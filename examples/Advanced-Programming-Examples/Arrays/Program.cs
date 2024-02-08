@@ -15,5 +15,31 @@ Array a = Array.CreateInstance(typeof(int), 2);
 int[] d1 = (int[])Array.CreateInstance(typeof(int), 2);
 
 //Three dimensional array
-int[,,] d2 = (int[,,])Array.CreateInstance(typeof(int), 2,3,4);
+int[,,] d2 = (int[,,])Array.CreateInstance(typeof(int), 2, 3, 4);
+#endregion
+
+
+#region Tupple Array
+
+//One Dimensional Example
+(string s, int i, bool b)[] d3 = new (string s, int i, bool b)[]
+{
+    ("kardel",123,true),
+    ("rüveyda",232,false)
+};
+
+//Two Dimensional
+(int a, string b)[,] array = new (int a, string b)[2, 2]
+{
+   {
+    (0,"x"),
+    (1,"y"),
+    },
+    {
+    (2,"d"),
+    (3,"c"),
+    },
+};
+
+
 #endregion
