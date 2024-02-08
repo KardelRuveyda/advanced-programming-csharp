@@ -69,6 +69,8 @@ Tuples are a collection type in C# that can contain elements of different types,
 
 **One Dimensional Example**
 
+
+
 In the one-dimensional example, we have a tuple array (d3) containing elements with three components: a string (s), an integer (i), and a boolean (b). This array is initialized with two tuple elements, each consisting of a name (string), an ID (int), and a boolean flag.
 
 ```csharp
@@ -81,6 +83,8 @@ In the one-dimensional example, we have a tuple array (d3) containing elements w
 ```
 
 **Two Dimensional Example**
+
+
 In the two-dimensional example, we have a tuple array (array) with two dimensions. Each element of this array consists of a tuple with two components: an integer (a) and a string (b). The array is initialized with two rows and two columns, containing tuples with integer and string values.
 
 ```csharp
