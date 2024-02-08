@@ -8,6 +8,7 @@ This README file is created to explain and provide examples of advanced programm
 2. [CreateInstance Method](#createinstance-method)
 3. [Manual Array Definition](#manual-array-definition)
 4. [CreateInstance Method and Software Processes](#createinstance-method-and-software-processes)
+5. [Tuple Arrays](#tupple-array-definition)
 
 ## Introduction
 
